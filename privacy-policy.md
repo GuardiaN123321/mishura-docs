@@ -1,4 +1,4 @@
-# MISHURA — Privacy Policy / Политика конфиденциальности
+# MISHURA App — Privacy Policy / Политика конфиденциальности
 
 ---
 
@@ -6,7 +6,7 @@
 
 **Last updated: November 2025**
 
-**MISHURA** ("we", "our", or "app") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
+**MISHURA App** ("we", "our", or "app") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
 
 ### 1. Information We Collect
 
@@ -14,7 +14,7 @@
 - **Profile Information**: Name, avatar photo, date of birth that you provide when setting up your profile.
 - **Phone Number** (optional): If you choose to add your phone number, it allows your friends to find you in the app.
 - **Wishlist Data**: Events, wishes, photos, links, and comments you create in the app.
-- **Device Contacts**: With your permission, we access your device contacts to help you find friends who use MISHURA. Phone numbers are hashed before being compared with our database.
+- **Device Contacts**: With your permission, we access your device contacts to help you find friends who use MISHURA App. Phone numbers are hashed before being compared with our database.
 - **Device Information**: Device type, operating system version for app functionality and troubleshooting.
 
 ### 2. How We Use Your Information
@@ -46,7 +46,7 @@ You can:
 
 ### 6. Children's Privacy
 
-MISHURA is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+MISHURA App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
 
 ### 7. Changes to This Policy
 
@@ -62,7 +62,7 @@ If you have questions about this Privacy Policy, contact us at: gusakova.ag@gmai
 
 **Последнее обновление: ноябрь 2025**
 
-**MISHURA** ("мы", "наше" или "приложение") уважает вашу конфиденциальность и обязуется защищать ваши персональные данные. Настоящая Политика конфиденциальности объясняет, как мы собираем, используем и защищаем вашу информацию.
+**MISHURA App** ("мы", "наше" или "приложение") уважает вашу конфиденциальность и обязуется защищать ваши персональные данные. Настоящая Политика конфиденциальности объясняет, как мы собираем, используем и защищаем вашу информацию.
 
 ### 1. Какие данные мы собираем
 
@@ -102,7 +102,7 @@ If you have questions about this Privacy Policy, contact us at: gusakova.ag@gmai
 
 ### 6. Конфиденциальность детей
 
-MISHURA не предназначено для детей младше 13 лет. Мы сознательно не собираем персональные данные детей младше 13 лет.
+MISHURA App не предназначено для детей младше 13 лет. Мы сознательно не собираем персональные данные детей младше 13 лет.
 
 ### 7. Изменения политики
 

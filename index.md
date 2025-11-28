@@ -1,6 +1,6 @@
-# MISHURA - Legal Documents
+# MISHURA App - Legal Documents
 
-Welcome to MISHURA legal documents page.
+Welcome to MISHURA App legal documents page.
 
 ## Documents
 
@@ -13,4 +13,4 @@ Email: gusakova.ag@gmail.com
 
 ---
 
-© 2025 MISHURA. All rights reserved.
+© 2025 MISHURA App. All rights reserved.

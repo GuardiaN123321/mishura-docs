@@ -1,4 +1,4 @@
-# MISHURA — Terms of Use / Условия использования
+# MISHURA App — Terms of Use / Условия использования
 
 ---
 
@@ -8,11 +8,11 @@
 
 ### 1. Acceptance of Terms
 
-By downloading, installing, or using MISHURA ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
+By downloading, installing, or using MISHURA App ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
 
 ### 2. Description of Service
 
-MISHURA is a mobile application that allows users to:
+MISHURA App is a mobile application that allows users to:
 - Create and manage wishlists
 - Share wishlists with friends and family
 - Create and manage events
@@ -92,11 +92,11 @@ For questions about these Terms of Use, contact us at: gusakova.ag@gmail.com
 
 ### 1. Принятие условий
 
-Загружая, устанавливая или используя MISHURA ("Приложение"), вы соглашаетесь с настоящими Условиями использования. Если вы не согласны с этими условиями, пожалуйста, не используйте Приложение.
+Загружая, устанавливая или используя MISHURA App ("Приложение"), вы соглашаетесь с настоящими Условиями использования. Если вы не согласны с этими условиями, пожалуйста, не используйте Приложение.
 
 ### 2. Описание сервиса
 
-MISHURA — мобильное приложение, которое позволяет пользователям:
+MISHURA App — мобильное приложение, которое позволяет пользователям:
 - Создавать и управлять списками желаний
 - Делиться списками с друзьями и семьёй
 - Создавать и управлять событиями
